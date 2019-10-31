@@ -21,7 +21,7 @@
 title: JuMalIO.github.io
 
 texture:
-  style: [yellow|red|black|blue|green|purple]
+  style: green
   title: JuMalIO
   tagline: Software Engineer
   date_format: "%Y.%m.%d"
