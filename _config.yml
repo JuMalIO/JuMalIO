@@ -25,6 +25,7 @@ texture:
   title: JuMalIO
   tagline: Software Engineer
   date_format: "%Y.%m.%d"
+  showPicker: true
   
 social_links:
   github:  JuMalIO
