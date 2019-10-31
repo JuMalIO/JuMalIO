@@ -18,17 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JuMalIO.github.io
-
 texture:
   style: green
   title: JuMalIO
   tagline: Software Engineer
   date_format: "%Y.%m.%d"
-  
-social_links:
-  github:  JuMalIO
-  linkedIn: in/julius-malisauskas-97447312b # format: locale/username
+  disqus_shortname: disqus_jumalio
+  social_links:
+    github:  JuMalIO
+    linkedIn: in/julius-malisauskas-97447312b # format: locale/username
     
 # Build settings
 remote_theme: thelehhman/texture
