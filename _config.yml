@@ -9,6 +9,10 @@ texture:
     github:  JuMalIO
     linkedIn: in/julius-malisauskas-97447312b # format: locale/username
     
+  github:
+    repo: jumalio/jumalio.github.io
+    branch: master
+    
 # Build settings
 remote_theme: thelehhman/texture
 theme: texture
