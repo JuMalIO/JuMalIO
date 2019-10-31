@@ -27,8 +27,8 @@ texture:
   date_format: "%Y.%m.%d"
   
 social_links:
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+  github:  JuMalIO
+  linkedIn: in/julius-malisauskas-97447312b # format: locale/username
     
 # Build settings
 remote_theme: thelehhman/texture
