@@ -1,7 +1,5 @@
 github:
-  repo: vrypan/vrypan.github.io
   repo: jumalio/jumalio.github.io
-  branch: master
   branch: master
   
 texture:
